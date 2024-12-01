@@ -6,4 +6,4 @@ Feito com HTML e CSS
 <img src="./src/images/image.png">
 
 ### Mobile
-<img src="./src/images/giftela.gif">
+<img src="./src/images/giftela.gif" width="150px">
